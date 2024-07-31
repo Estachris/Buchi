@@ -1,0 +1,24 @@
+.gradient-background {
+  background: linear-gradient(to bottom, #e0f7fa, #ffffff);
+    padding: 2rem 0; 
+    
+    
+  }
+.collapse {
+    color: black;
+}
+
+.containermarketing {
+  margin-top: 5%;
+}
+.H1font {
+  color: #212529;
+}
+.navbar {
+  background-color:  #343a40;
+  color:  #f8f9fa;
+}
+
+.lead {
+  color: #495057;
+}
